@@ -1,0 +1,16 @@
+.svg-container {
+    background-color: #E1F30D;
+}
+
+.line {
+    stroke: red;
+    stroke-width: 10pt;
+}
+
+.rect{
+    fill: #9B95FF;
+}
+
+.circle {
+    fill: #7CE8D5;
+}
